@@ -1,0 +1,12 @@
+{
+    "name": "fduch/skeleton-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fduch",
+            "email": "alex.medwedew@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
